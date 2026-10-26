@@ -1,10 +1,19 @@
 {
   "dealership": "Jim Pattison Toyota Surrey",
-  "generated_at": "2026-10-25T19:09:33",
+  "generated_at": "2026-10-26T04:15:05",
   "vehicle_count": 90,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "2009 Mazda CX-7 GT 4WD",
+      "vin": "JM3ER293890230099",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/ef666eb26b4b.html",
+      "year": 2009,
+      "make": "Mazda",
+      "model": "CX-7 GT 4WD",
+      "condition": "used"
+    },
     {
       "name": "2012 Honda Civic Coupe Coupe EX-L-Navi at",
       "vin": "2HGFG3B9XCH000754",
@@ -46,6 +55,15 @@
       "condition": "used",
       "price": 33600.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Toyota Sequoia Limited 5.7L 6A",
+      "vin": "5TDJY5G15JS163914",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/f3b36169b578.html",
+      "year": 2018,
+      "make": "Toyota",
+      "model": "Sequoia",
+      "condition": "used"
     },
     {
       "name": "2019 Toyota Corolla Hatchback Hatchback CVT",
@@ -247,17 +265,6 @@
       "condition": "used"
     },
     {
-      "name": "2025 Toyota RAV4 XLE AWD",
-      "vin": "2T3R1RFV1SW529273",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/8fe26c8ede14.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 40900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota Corolla Sedan LE CVT",
       "vin": "5YFB4MDE9TP424717",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/04f5184a49c7.html",
@@ -276,17 +283,6 @@
       "make": "Toyota",
       "model": "Highlander Hybrid",
       "condition": "used"
-    },
-    {
-      "name": "2026 Toyota RAV4 RAV4 XSE AWD TECHNOLOGY PACKAGE",
-      "vin": "2T36CRAV7TW081448",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/b3f454684455.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 59995.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2026 Toyota 4Runner Hybrid ",
