@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Toyota Surrey",
-  "generated_at": "2026-10-25T19:01:31",
-  "vehicle_count": 94,
+  "generated_at": "2026-10-25T19:09:33",
+  "vehicle_count": 90,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -729,17 +729,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tundra CrewMax Limited",
-      "vin": "5TFPC5DB4TX149649",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/new/57dd55dbaa5b.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "new",
-      "price": 92864.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Toyota bZ Woodland ",
       "vin": "JTMBGAHBXVY641360",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/new/f67364c6835c.html",
@@ -780,7 +769,7 @@
       "make": "Toyota",
       "model": "bZ",
       "condition": "new",
-      "price": 49003.0,
+      "price": 47073.0,
       "price_currency": "CAD"
     },
     {
@@ -861,17 +850,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Corolla Hatchback CVT",
-      "vin": "JTNK4MBE5V3277421",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/new/95a7ae040306.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Corolla Hatchback CVT",
-      "condition": "new",
-      "price": 28268.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Toyota Corolla Sedan L CVT",
       "vin": "5YFB4MDE9VP511164",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/new/02eafafb6368.html",
@@ -913,17 +891,6 @@
       "model": "Corolla",
       "condition": "new",
       "price": 29198.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Corolla ",
-      "vin": "JTDBCMFE4V3173410",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/new/6ad61b0ad9ea.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "new",
-      "price": 31078.0,
       "price_currency": "CAD"
     },
     {
@@ -990,17 +957,6 @@
       "model": "Prius Prime",
       "condition": "new",
       "price": 52108.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid XSE",
-      "vin": "JTDACACU9V3086849",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/new/79b7e2fdf0e2.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 48358.0,
       "price_currency": "CAD"
     },
     {
