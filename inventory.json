@@ -1,173 +1,20 @@
 {
   "dealership": "Jim Pattison Toyota Surrey",
-  "generated_at": "2026-10-26T04:22:14",
-  "vehicle_count": 90,
+  "generated_at": "2026-11-16T22:37:54",
+  "vehicle_count": 70,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2009 Mazda CX-7 GT 4WD",
-      "vin": "JM3ER293890230099",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/ef666eb26b4b.html",
-      "year": 2009,
-      "make": "Mazda",
-      "model": "CX-7 GT 4WD",
-      "condition": "used"
-    },
-    {
-      "name": "2012 Honda Civic Coupe Coupe EX-L-Navi at",
-      "vin": "2HGFG3B9XCH000754",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/f03bac932c1c.html",
-      "year": 2012,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 8900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Subaru Forester 2.5i Convenience at",
-      "vin": "JF2SJCBCXEH461022",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/6cdac5094de1.html",
-      "year": 2014,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used"
-    },
-    {
-      "name": "2017 Honda Civic Sedan Sedan LX CVT",
-      "vin": "2HGFC2F62HH006240",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/f9cad8d8471c.html",
-      "year": 2017,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 14590.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Toyota 4Runner SR5 V6 5A",
-      "vin": "JTEBU5JR1J5522059",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/e3a0fd88ff8f.html",
-      "year": 2018,
-      "make": "Toyota",
-      "model": "4Runner",
-      "condition": "used",
-      "price": 33600.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Toyota Sequoia Limited 5.7L 6A",
-      "vin": "5TDJY5G15JS163914",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/f3b36169b578.html",
-      "year": 2018,
-      "make": "Toyota",
-      "model": "Sequoia",
-      "condition": "used"
-    },
-    {
-      "name": "2019 Toyota Corolla Hatchback Hatchback CVT",
-      "vin": "JTNK4RBE9K3041489",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/16d9aa7dc208.html",
+      "name": "2019 Toyota RAV4 AWD Trail",
+      "vin": "2T3J1RFV7KC015703",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/bc190fd9579f.html",
       "year": 2019,
       "make": "Toyota",
-      "model": "Corolla Hatchback Hatchback CVT",
-      "condition": "used",
-      "price": 20700.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Honda Civic Sedan Sedan Sport CVT",
-      "vin": "2HGFC2F87LH006342",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/b74245a13007.html",
-      "year": 2020,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used"
-    },
-    {
-      "name": "2020 Honda CR-V Sport 4WD",
-      "vin": "2HKRW2H4XLH223663",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/9fe72d8b2646.html",
-      "year": 2020,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used"
-    },
-    {
-      "name": "2020 Kia Niro EV EX",
-      "vin": "KNDCE3LG2L5056764",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/e2fcab6cc675.html",
-      "year": 2020,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "used",
-      "price": 20995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Toyota Corolla Sedan 4-door Sedan LE CVT",
-      "vin": "5YFBPRBE9LP036331",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/04290006f50c.html",
-      "year": 2020,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 18995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Toyota Camry Sedan SE AWD",
-      "vin": "4T1G11BKXMU041987",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/16c7885ec315.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "Camry",
-      "condition": "used",
-      "price": 26995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Toyota RAV4 LE AWD",
-      "vin": "2T3B1RFV3MW231649",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/f838b4d8a634.html",
-      "year": 2021,
-      "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 28995.0,
+      "price": 29995.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Dodge Charger GT AWD",
-      "vin": "2C3CDXMG8PH691466",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/b51c60ff1e7b.html",
-      "year": 2023,
-      "make": "Dodge",
-      "model": "Charger",
-      "condition": "used",
-      "price": 38600.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda Civic Sedan Sedan Touring CVT",
-      "vin": "2HGFE1F91PH002435",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/1fbae6e09538.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 24600.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Toyota RAV4 XLE AWD",
-      "vin": "2T3R1RFV8PC357610",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/d7f9f0085769.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used"
     },
     {
       "name": "2024 Honda Accord Hybrid Touring eCVT Hybrid Sedan",
@@ -203,37 +50,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Toyota RAV4 Hybrid XLE AWD",
-      "vin": "2T3RWRFV4RW213071",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/18e63af2cd53.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "RAV4 Hybrid",
-      "condition": "used",
-      "price": 42900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota Tacoma Tacoma Double Cab at",
-      "vin": "3TYLB5JN0RT059269",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/ab9e022d6a19.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 53900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota Tacoma Tacoma Double Cab at",
-      "vin": "3TYLB5JN9RT052451",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/cc7d2f789d68.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used"
-    },
-    {
       "name": "2025 Honda HR-V LX AWD CVT",
       "vin": "3CZRZ2H34SM108770",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/c3d66fd5cba4.html",
@@ -245,17 +61,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Toyota Corolla Sedan SE CVT",
-      "vin": "5YFB4MBE1SP238607",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/80b95d4dc6d7.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 26590.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Toyota Highlander Hybrid XLE AWD",
       "vin": "5TDKBRCH7SS652459",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/224a84d0e767.html",
@@ -263,17 +68,6 @@
       "make": "Toyota",
       "model": "Highlander Hybrid",
       "condition": "used"
-    },
-    {
-      "name": "2026 Toyota Corolla Sedan LE CVT",
-      "vin": "5YFB4MDE9TP424717",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/04f5184a49c7.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 29590.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2026 Toyota Highlander Hybrid Limited AWD",
