@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Toyota Surrey",
-  "generated_at": "2026-11-16T22:37:54",
-  "vehicle_count": 70,
+  "generated_at": "2026-11-17T22:42:01",
+  "vehicle_count": 74,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -14,6 +14,61 @@
       "model": "RAV4",
       "condition": "used",
       "price": 29995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Honda Civic Sedan Sport CVT",
+      "vin": "2HGFC2F87LH006342",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/bb772b0a66c3.html",
+      "year": 2020,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used",
+      "price": 20900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Honda CR-V Sport",
+      "vin": "2HKRW2H4XLH223663",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/04ecf3dd4461.html",
+      "year": 2020,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "used",
+      "price": 29700.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Honda Odyssey EXL Navi",
+      "vin": "5FNRL6H61LB504959",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/0ac602f373cd.html",
+      "year": 2020,
+      "make": "Honda",
+      "model": "Odyssey",
+      "condition": "used",
+      "price": 32800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Lexus IS 300 AWD F SPORT Series 2",
+      "vin": "JTHG81F2XM5045878",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/73c47aae7ddc.html",
+      "year": 2021,
+      "make": "Lexus",
+      "model": "IS",
+      "condition": "used",
+      "price": 40995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Toyota Camry SE AWD",
+      "vin": "4T1G11BKXMU041987",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/effb0605da97.html",
+      "year": 2021,
+      "make": "Toyota",
+      "model": "Camry",
+      "condition": "used",
+      "price": 24900.0,
       "price_currency": "CAD"
     },
     {
@@ -59,15 +114,6 @@
       "condition": "used",
       "price": 31600.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Toyota Highlander Hybrid XLE AWD",
-      "vin": "5TDKBRCH7SS652459",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/224a84d0e767.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "Highlander Hybrid",
-      "condition": "used"
     },
     {
       "name": "2026 Toyota Highlander Hybrid Limited AWD",

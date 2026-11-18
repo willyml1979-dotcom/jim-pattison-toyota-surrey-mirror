@@ -1,6 +1,6 @@
 # Jim Pattison Toyota - Surrey
 
- dealership in Surrey. AI-readable inventory mirror, about 70 vehicles.
+ dealership in Surrey. AI-readable inventory mirror, about 74 vehicles.
 
 - Official website: https://www.jptoyota-surrey.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/jim-pattison-toyota-surrey-mirror/used/
